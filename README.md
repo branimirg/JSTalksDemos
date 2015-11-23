@@ -16,6 +16,7 @@ At the moment of the release of this demo (23/11/2015) Microsoft has an offer fo
         <li>A demo app written in TypeScript and AngularJS 1.4.5</li>
         <li>RequireJS is used for loading of script dependencies async from CDN</li>
         <li>The solution uses Angular routing and partial views</li>
+        <li>Use of angular.controller(...)  and angular.factory(...) for configuration of the app</li>
         <li>Service model implementation with custom Scope</li>
         <li>Form validation</li>
         <li>
