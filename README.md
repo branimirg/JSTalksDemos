@@ -33,5 +33,9 @@ At the moment of the release of this demo (23/11/2015) Microsoft has an offer fo
 <p>
     <ul>
         <li>Form reset acton errors out (new contact)</li>
+        <li>
+            Once you open VS and try to build the project, you may get a message saying NuGet.exe is missing. Try downloading it from nuget.org and pasting the file in the target directory (under .nuget in the project tree). <br />
+            The reason for this behavior is due to excluded files list in .gitignore, but this way is better since I don't have to check-in an executable in source control.
+        </li>
     </ul>
 </p>
