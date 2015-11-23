@@ -7,11 +7,5 @@
     <File Path="Scripts\App.js.map" Url="Scripts/App.js.map" ReplaceContent="TRUE" />
     <File Path="Scripts\include\ui-grid.min.js" Url="Scripts/include/ui-grid.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\include\ui-grid.js" Url="Scripts/include/ui-grid.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\Controllers\DefaultController.ts" Url="Scripts/app/Controllers/DefaultController.ts" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\Services\RepositoryService.ts" Url="Scripts/app/Services/RepositoryService.ts" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\Config.ts" Url="Scripts/app/Config.ts" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\App.ts" Url="Scripts/app/App.ts" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\Data\DataAccess.ts" Url="Scripts/app/Data/DataAccess.ts" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\Services\RequestBuilder.ts" Url="Scripts/app/Services/RequestBuilder.ts" ReplaceContent="TRUE" />
   </Module>
 </Elements>
