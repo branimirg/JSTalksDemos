@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9088371e-5ba5-4c1b-a37b-26f35b73b7b0" solutionId="9088371e-5ba5-4c1b-a37b-26f35b73b7b0" resetWebServer="false" sharePointProductVersion="16.0" name="SkillMatrix" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="01c40dd8-0bd2-4fac-b65a-0fa17080192a" />
+  </features>
+</package>

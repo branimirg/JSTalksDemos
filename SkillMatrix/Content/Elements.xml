@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.woff" Url="Content/ui-grid.woff" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.ttf" Url="Content/ui-grid.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.svg" Url="Content/ui-grid.svg" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.min.css" Url="Content/ui-grid.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.eot" Url="Content/ui-grid.eot" ReplaceContent="TRUE" />
+    <File Path="Content\ui-grid.css" Url="Content/ui-grid.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

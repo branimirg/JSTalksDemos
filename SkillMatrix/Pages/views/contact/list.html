@@ -1,0 +1,20 @@
+﻿<div ng-controller="DefaultController as c" style="padding-left:10px">
+    <table class="table" style="text-align:left; border: solid 1px gray">
+        <thead>
+            <tr>
+                <th style="width: 200px;text-align:left">Name</th>
+                <th style="width: 200px;text-align:left">Email</th>
+                <th style="width: 200px;text-align:left">Contact info</th>
+</tr>
+        </thead>
+        <tr ng-repeat="itm in freelancersData">
+            <td title="'Name'" sortable="'Title'">
+                <label><b>{{itm.Title}}</b>, {{itm.FirstName}}</label>
+            </td>
+            <td title="'Email'">{{itm.Email}}</td>
+            <td title="'Phones'"><div>{{itm.CellPhone}}</div><div>{{itm.WorkPhone}}</div><div>{{itm.HomePhone}}</div></td>
+        </tr>
+    </table>
+    
+
+</div>

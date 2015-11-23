@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\views\home\default.html" Url="Pages/views/home/default.html" ReplaceContent="TRUE" />
+    <File Path="Pages\views\contact\create.html" Url="Pages/views/contact/create.html" ReplaceContent="TRUE" />
+    <File Path="Pages\views\contact\list.html" Url="Pages/views/contact/list.html" ReplaceContent="TRUE" />
+    <File Path="Pages\views\contact\listGrid.html" Url="Pages/views/contact/listGrid.html" ReplaceContent="TRUE" />
+    <File Path="Pages\views\shared\about.html" Url="Pages/views/shared/about.html" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
